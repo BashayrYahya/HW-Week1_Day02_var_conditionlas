@@ -1,8 +1,11 @@
-fun main(){
- val healthPoint =44
- if (healthPoint in 50 ..89 ) {
-  println("health is fine")}
- if (healthPoint < 50){
-   println(" health is awful")
- }
-}
+//fun main() {
+//
+//
+// val score = 58
+// val totalPoint = (score)  {
+//  println(score)
+// }
+// fun showScore(score: Int): Int  {return score*10}
+//
+//
+//}
